@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="" />
+    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding java project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,16 +34,17 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1pUGmLjuFNuWrOQXwNwUoA6Ntsx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -136,13 +140,25 @@
       <option name="presentableId" value="Default" />
       <updated>1615230413279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding java project">
+      <created>1624459580282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624459580282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding java project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding java project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="0" key="#Project_Structure" timestamp="1624459245564">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1624459436029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1624459245564" />
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1624459436029" />
     <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1621081880288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -151,10 +167,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="150" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1621159063256" />
-    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1624459276060">
+    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1624459497004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624459276060" />
+    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624459497004" />
     <state width="1865" height="495" key="GridCell.Tab.0.bottom" timestamp="1621438936662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -191,6 +207,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624459343763" />
+    <state x="452" y="171" key="Vcs.Push.Dialog.v2" timestamp="1624459660834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="171" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624459660834" />
     <state x="581" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619879465748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
