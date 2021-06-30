@@ -3,8 +3,44 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding java project" />
+    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding java project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/HeapClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/MinimumHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTreeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/BuilderPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/DoubletonSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/DoubletonSampleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonClassClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SafariFunctionalJava-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,24 +77,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueClient">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.HeapClient">
+    <configuration name="BinarySearchTreeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.trees.BinarySearchTreeClient" />
       <module name="SafariFunctionalJava-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.sorting.*" />
+          <option name="PATTERN" value="collections.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.linkedlist.LinkedListClient" />
+    <configuration name="BuilderPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.BuilderPatternExample" />
       <module name="SafariFunctionalJava-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.linkedlist.*" />
+          <option name="PATTERN" value="designpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.queue.QueueClient" />
+    <configuration name="DoubletonSampleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.DoubletonSampleClient" />
       <module name="SafariFunctionalJava-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.queue.*" />
+          <option name="PATTERN" value="designpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.sorting.SelectionSort" />
+    <configuration name="HeapClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.heap.HeapClient" />
       <module name="SafariFunctionalJava-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.sorting.*" />
+          <option name="PATTERN" value="collections.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.stack.StackClient" />
+    <configuration name="SingletonClassClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="designpatterns.SingletonClassClient" />
       <module name="SafariFunctionalJava-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.stack.*" />
+          <option name="PATTERN" value="designpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QueueClient" />
-        <item itemvalue="Application.StackClient" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.LinkedListClient" />
+        <item itemvalue="Application.HeapClient" />
+        <item itemvalue="Application.BinarySearchTreeClient" />
+        <item itemvalue="Application.BuilderPatternExample" />
+        <item itemvalue="Application.DoubletonSampleClient" />
+        <item itemvalue="Application.SingletonClassClient" />
       </list>
     </recent_temporary>
   </component>
@@ -147,8 +184,39 @@
       <option name="project" value="LOCAL" />
       <updated>1624459580282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding java project">
+      <created>1624459675920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624459675920</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding java project" />
@@ -159,70 +227,86 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1624459436029" />
-    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1621081880288">
+    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1625056934260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621081880288" />
-    <state x="655" y="150" key="#xdebugger.evaluate" timestamp="1621159063256">
+    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625056934260" />
+    <state x="743" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625056737071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="150" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1621159063256" />
+    <state x="743" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625056737071" />
+    <state x="655" y="150" key="#xdebugger.evaluate" timestamp="1624625233456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="150" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1624625233456" />
+    <state width="433" height="582" key="DebuggerActiveHint" timestamp="1624647573190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="433" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1624647573190" />
     <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1624459497004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624459497004" />
-    <state width="1865" height="495" key="GridCell.Tab.0.bottom" timestamp="1621438936662">
+    <state width="1865" height="402" key="GridCell.Tab.0.bottom" timestamp="1625057144689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936662" />
-    <state width="1865" height="495" key="GridCell.Tab.0.center" timestamp="1621438936662">
+    <state width="1865" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
+    <state width="1865" height="402" key="GridCell.Tab.0.center" timestamp="1625057144689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936662" />
-    <state width="1865" height="495" key="GridCell.Tab.0.left" timestamp="1621438936662">
+    <state width="1865" height="402" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
+    <state width="1865" height="402" key="GridCell.Tab.0.left" timestamp="1625057144689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936662" />
-    <state width="1865" height="495" key="GridCell.Tab.0.right" timestamp="1621438936662">
+    <state width="1865" height="402" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
+    <state width="1865" height="402" key="GridCell.Tab.0.right" timestamp="1625057144689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936662" />
-    <state width="1865" height="495" key="GridCell.Tab.1.bottom" timestamp="1621438936663">
+    <state width="1865" height="402" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
+    <state width="1865" height="239" key="GridCell.Tab.1.bottom" timestamp="1624698260309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936663" />
-    <state width="1865" height="495" key="GridCell.Tab.1.center" timestamp="1621438936663">
+    <state width="1865" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
+    <state width="1865" height="239" key="GridCell.Tab.1.center" timestamp="1624698260309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936663" />
-    <state width="1865" height="495" key="GridCell.Tab.1.left" timestamp="1621438936662">
+    <state width="1865" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
+    <state width="1865" height="239" key="GridCell.Tab.1.left" timestamp="1624698260309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936662" />
-    <state width="1865" height="495" key="GridCell.Tab.1.right" timestamp="1621438936663">
+    <state width="1865" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
+    <state width="1865" height="239" key="GridCell.Tab.1.right" timestamp="1624698260309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="495" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621438936663" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1624459343763">
+    <state width="1865" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1624606701091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624459343763" />
-    <state x="452" y="171" key="Vcs.Push.Dialog.v2" timestamp="1624459660834">
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624606701091" />
+    <state x="452" y="171" key="Vcs.Push.Dialog.v2" timestamp="1624459742947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="171" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624459660834" />
+    <state x="452" y="171" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624459742947" />
     <state x="581" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619879465748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="581" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619879465748" />
+    <state x="624" y="225" key="extract.method.dialog" timestamp="1624698469655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="225" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624698469655" />
     <state x="0" y="0" width="716" height="1040" key="find.popup" timestamp="1617807078255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" width="716" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617807078255" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1620982158816">
+    <state x="532" y="237" key="run.anything.popup" timestamp="1624607757180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620982158816" />
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624607757180" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1625056650411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625056650411" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -271,6 +355,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/collections/queue/QueueUsing2Stacks.java</url>
           <line>34</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/Test1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/Test1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
