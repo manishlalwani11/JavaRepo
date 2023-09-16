@@ -14,25 +14,22 @@ public class ReverseIntegerSigned {
 
         System.out.println("reversed: " + reversedValue);
 
-
-
     }
 
     private static Integer getReversOfSignedInteger(int x) {
         long reversedValue = 0;
-        while (x != 0){
+        while (x != 0) {
 
             int mod = x % 10;
-            x = x /10;
+            x = x / 10;
 
-            if(reversedValue *10 > Integer.MAX_VALUE || reversedValue *10 < Integer.MIN_VALUE) {
+            if (reversedValue * 10 > Integer.MAX_VALUE || reversedValue * 10 < Integer.MIN_VALUE) {
                 return 0;
             }
 
             reversedValue = reversedValue * 10 + mod;
-
         }
 
-        return (int)reversedValue;
+        return (int) reversedValue;
     }
 }

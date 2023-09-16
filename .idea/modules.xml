@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SafariFunctionalJava.iml" filepath="$PROJECT_DIR$/SafariFunctionalJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SafariFunctionalJava-master.iml" filepath="$PROJECT_DIR$/.idea/SafariFunctionalJava-master.iml" />
     </modules>
   </component>

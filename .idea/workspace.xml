@@ -20,26 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding java project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/HeapClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/MinimumHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/heap/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTreeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/trees/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/BuilderPatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/DoubletonSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/DoubletonSampleClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonClassClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpatterns/SingletonSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SafariFunctionalJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/Merge2SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Play.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SafariFunctionalJava-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cleanedstudents/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleanedstudents/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cleanedstudents/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleanedstudents/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedListClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedListClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueOverFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueOverFlowException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueUnderFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueUnderFlowException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackOverFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackOverFlowException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackUnderFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackUnderFlowException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/StackClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nothis/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nothis/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nothis/MyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nothis/MyFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/Fun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/Fun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/PerformanceTestSeqVsParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/PerformanceTestSeqVsParallel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/PersonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/PersonRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/practice/StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/StringComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/students/CriterionOfStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/CriterionOfStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/students/EnthusiasticStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/EnthusiasticStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/students/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/students/SmartStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/SmartStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/students/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/superiterable/SuperIterable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/superiterable/SuperIterable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/superiterable/UseSuperIterable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/superiterable/UseSuperIterable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +84,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -67,7 +103,7 @@
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1pUGmLjuFNuWrOQXwNwUoA6Ntsx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,9 +113,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -88,14 +125,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="practice" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.HeapClient">
-    <configuration name="BinarySearchTreeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.trees.BinarySearchTreeClient" />
-      <module name="SafariFunctionalJava-master" />
+  <component name="RunManager" selected="Application.Play">
+    <configuration name="Merge2SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.arrays.Merge2SortedArray" />
+      <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.trees.*" />
+          <option name="PATTERN" value="collections.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.BuilderPatternExample" />
-      <module name="SafariFunctionalJava-master" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.sorting.MergeSort" />
+      <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.*" />
+          <option name="PATTERN" value="collections.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubletonSampleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.DoubletonSampleClient" />
-      <module name="SafariFunctionalJava-master" />
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Play" />
+      <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.heap.HeapClient" />
-      <module name="SafariFunctionalJava-master" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.arrays.Test" />
+      <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.heap.*" />
+          <option name="PATTERN" value="collections.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonClassClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.SingletonClassClient" />
-      <module name="SafariFunctionalJava-master" />
+    <configuration name="Testing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Testing1" />
+      <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeapClient" />
-        <item itemvalue="Application.BinarySearchTreeClient" />
-        <item itemvalue="Application.BuilderPatternExample" />
-        <item itemvalue="Application.DoubletonSampleClient" />
-        <item itemvalue="Application.SingletonClassClient" />
+        <item itemvalue="Application.Play" />
+        <item itemvalue="Application.Testing1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.Merge2SortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -216,97 +256,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding java project" />
     <option name="LAST_COMMIT_MESSAGE" value="Adding java project" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="312" y="0" key="#Project_Structure" timestamp="1624459436029">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1624459436029" />
-    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1625056934260">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625056934260" />
-    <state x="743" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625056737071">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="743" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625056737071" />
-    <state x="655" y="150" key="#xdebugger.evaluate" timestamp="1624625233456">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="655" y="150" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1624625233456" />
-    <state width="433" height="582" key="DebuggerActiveHint" timestamp="1624647573190">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="433" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1624647573190" />
-    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1624459497004">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624459497004" />
-    <state width="1865" height="402" key="GridCell.Tab.0.bottom" timestamp="1625057144689">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="402" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
-    <state width="1865" height="402" key="GridCell.Tab.0.center" timestamp="1625057144689">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="402" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
-    <state width="1865" height="402" key="GridCell.Tab.0.left" timestamp="1625057144689">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="402" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
-    <state width="1865" height="402" key="GridCell.Tab.0.right" timestamp="1625057144689">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="402" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625057144689" />
-    <state width="1865" height="239" key="GridCell.Tab.1.bottom" timestamp="1624698260309">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
-    <state width="1865" height="239" key="GridCell.Tab.1.center" timestamp="1624698260309">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
-    <state width="1865" height="239" key="GridCell.Tab.1.left" timestamp="1624698260309">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
-    <state width="1865" height="239" key="GridCell.Tab.1.right" timestamp="1624698260309">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624698260309" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1624606701091">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624606701091" />
-    <state x="452" y="171" key="Vcs.Push.Dialog.v2" timestamp="1624459742947">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="171" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624459742947" />
-    <state x="581" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619879465748">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="581" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619879465748" />
-    <state x="624" y="225" key="extract.method.dialog" timestamp="1624698469655">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="624" y="225" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624698469655" />
-    <state x="0" y="0" width="716" height="1040" key="find.popup" timestamp="1617807078255">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" width="716" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1617807078255" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1624607757180">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624607757180" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1625056650411">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625056650411" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -325,16 +278,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/collections/linkedlist/LinkedListClient.java</url>
           <line>14</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/collections/stack/Stack.java</url>
@@ -375,6 +318,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java</url>
           <line>45</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/MergeSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/Play.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
