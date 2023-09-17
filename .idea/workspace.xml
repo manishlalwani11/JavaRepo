@@ -19,52 +19,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding java project">
-      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SafariFunctionalJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/Merge2SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/MergeSort.java" afterDir="false" />
+    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding more questions.">
       <change afterPath="$PROJECT_DIR$/src/main/java/practice/Play.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/MergeTwoSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/arrays/ReverseIntegerSigned.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cleanedstudents/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleanedstudents/School.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cleanedstudents/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cleanedstudents/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedListClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/LinkedListClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/linkedlist/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueOverFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueOverFlowException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueUnderFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks$QueueUnderFlowException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/queue/QueueUsing2Stacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/sorting/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackOverFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackOverFlowException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackUnderFlowException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack$StackUnderFlowException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/stack/StackClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/stack/StackClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nothis/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nothis/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nothis/MyFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nothis/MyFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/Fun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/Fun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/PerformanceTestSeqVsParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/PerformanceTestSeqVsParallel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/PersonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/PersonRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/practice/StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/practice/StringComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/students/CriterionOfStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/CriterionOfStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/students/EnthusiasticStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/EnthusiasticStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/students/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/School.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/students/SmartStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/SmartStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/students/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/students/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/superiterable/SuperIterable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/superiterable/SuperIterable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/superiterable/UseSuperIterable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/superiterable/UseSuperIterable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624459675920</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding more questions.">
+      <created>1694857967118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694857967118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding java project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding java project" />
+    <MESSAGE value="Adding more questions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding more questions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
