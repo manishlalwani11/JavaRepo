@@ -4,6 +4,8 @@ public class CoinChange {
 
 
     /*
+    https://leetcode.com/problems/coin-change/
+
         You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
         Return the fewest number of coins that you need to make up that amount.
         If that amount of money cannot be made up by any combination of the coins, return -1.
@@ -31,8 +33,8 @@ public class CoinChange {
      */
     public static void main(String[] args) {
 
-        int[] coins = new int[] {186,419,83,408};
-        int amount = 6249;
+        int[] coins = new int[]{1, 5, 6, 9};
+        int amount = 11;
 
         int noOfChange = coinChange(coins, amount);
         System.out.println("min coins: " + noOfChange);
@@ -40,6 +42,43 @@ public class CoinChange {
     }
 
     private static int coinChange(int[] coins,
+                                  int amount) {
+
+        if (amount == 0) {
+            return 0;
+        }
+
+        int[] dpArray = new int[amount + 1];
+
+        int i = 0;
+
+        // iterating through all the dpArray
+        for (i = 0; i <= dpArray.length - 1; i++) {
+
+            if (i == 0) {
+                dpArray[i] = 0;
+                continue;
+            } else {
+                dpArray[i] = Integer.MAX_VALUE;
+            }
+
+            // iterating through all possible coins and checking min coins needed
+            for (int coinVal : coins) {
+                if (coinVal <= i && dpArray[i - coinVal] != Integer.MAX_VALUE) {
+                    dpArray[i] = Math.min(dpArray[i], 1 + dpArray[i - coinVal]);
+                }
+            }
+        }
+
+        // This means we tried with all the possible coins but couldn't make the total amount.
+        if (dpArray[amount] == Integer.MAX_VALUE) {
+            return -1;
+        }
+
+        return dpArray[amount];
+    }
+
+    /*private static int coinChange(int[] coins,
                                   int amount) {
 
         // edge cases
@@ -92,5 +131,5 @@ public class CoinChange {
 
     private static void addDiff(int diff) {
 
-    }
+    }*/
 }
