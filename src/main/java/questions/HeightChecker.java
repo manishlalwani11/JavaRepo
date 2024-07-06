@@ -44,6 +44,12 @@ import java.util.Arrays;
  * heights:  [1,2,3,4,5]
  * expected: [1,2,3,4,5]
  * All indices match.
+ *
+ *
+ * Constraints:
+ *
+ * 1 <= heights.length <= 100
+ * 1 <= heights[i] <= 100
  */
 
 public class HeightChecker {
@@ -51,15 +57,16 @@ public class HeightChecker {
 
         int[] heights = new int[]{1, 1, 4, 2, 1, 3};
 
-        int result = heightChecker(heights);
+        int result = heightCheckerOptimised(heights);
 
-        System.out.println("result is:" + result);
+        System.out.println("result is: " + result);
 
     }
-
+    // Complexity - O(nlogn)
+    // space - O(n)
     private static int heightChecker(int[] heights) {
         int res = 0;
-        int[] clone = heights.clone();
+        int[] clone = heights.clone(); // O(nlogn) sorting time complexity
         Arrays.sort(clone);
 
         for (int i = 0; i < heights.length; i++) {
@@ -69,4 +76,35 @@ public class HeightChecker {
         }
         return res;
     }
+
+    private static int heightCheckerOptimised(int[] heights) {
+        int res = 0;
+        int[] freq = new int[101]; // as there is a constraint: 1 <= heights[i] <= 100
+        int currHeight = 0;
+
+        for (int height : heights) {
+            freq[height]++;
+        }
+
+        for (int f : freq) {
+            System.out.println(f);
+        }
+
+        // iterate height array
+        for (int i = 0; i < heights.length; i++) {
+            while (freq[currHeight] == 0) { // if the current height is 0 in the freq[currHeight] we can skip it as nobody is having that height
+                currHeight++;
+            }
+
+            if(currHeight != heights[i]) {   // since we have already counted how many people are there with the same height, then we can find the ones which are not standing in place.
+                res++;
+            }
+
+            freq[currHeight]--;  // decrease the value of current height as we have already counted/considered that person once.
+        }
+
+        return res;
+    }
+
+
 }
