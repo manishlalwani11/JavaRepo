@@ -86,9 +86,9 @@ public class HeightChecker {
             freq[height]++;
         }
 
-        for (int f : freq) {
+        /* for (int f : freq) {
             System.out.println(f);
-        }
+        }*/
 
         // iterate height array
         for (int i = 0; i < heights.length; i++) {
