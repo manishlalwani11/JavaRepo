@@ -39,7 +39,7 @@ public class LexicographicallySmallestStringAfterASwap {
 
     public static void main(String[] args) {
 
-        String s = "13";
+        String s = "45320";
         String smallestString = getSmallestStringViaCharArray(s);
         System.out.println("result string: "+ smallestString);
 
