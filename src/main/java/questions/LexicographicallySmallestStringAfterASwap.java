@@ -70,7 +70,14 @@ public class LexicographicallySmallestStringAfterASwap {
         char[] charArray = s.toCharArray();
         boolean isSwapped = false;
         for (int i = 0; i < charArray.length - 1; i++) {
-            int curr = Character.getNumericValue(charArray[i]);
+
+            /*
+                Character.getNumericValue assigns numeric values to alphabetic characters
+                starting from 10 for 'a' and 'A'.
+                'a' or 'A' is 10, 'b' or 'B' is 11, ..., 't' is 29.
+             */
+
+            int curr = Character.getNumericValue(charArray[i]);  //
             int next = Character.getNumericValue(charArray[i + 1]);
 
             if ((curr % 2 == next % 2) & !isSwapped) {

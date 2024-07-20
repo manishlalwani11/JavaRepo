@@ -67,6 +67,16 @@ public class SortArrayByIncreasingFrequency {
     }
 
     public static int[] frequencySort2ndWay (int[] nums) {
+
+        /*
+        -100 <= nums[i] <= 100
+        The formula to calculate the number of integers between two inclusive bounds a and  b is b−a+1.
+        => 100 -(-100) + 1 => 201
+        -100 to -1   -1 -(-100) + 1 => -1 + 100 + 1 => 100
+        1 to 100 => 100 - 1 + 1 => 100
+        also we need to consider 0 => 1
+        therefore => Total = 201
+         */
         int[] freq = new int[201];  // taking 201 to accomodate nums from -100 to 100; for 100 we would need 200th cell i.e. from 0th to 200th => total 201 as arrays is 0-indexed
         ArrayList<Integer> list = new ArrayList<>();
         // 2,3,1,3,2
@@ -75,6 +85,12 @@ public class SortArrayByIncreasingFrequency {
             freq[num + 100] = freq[num + 100] + 1;  // adding 100 to accommodate frequencies of -ve numbers.
         }
 
+        // freq arr
+        //  0 1 2 3,4,5,6,7,.........201
+        // [0,1,2,2,0,0,0,0.... upto 201]
+
+        // list
+        // (2,3,1,3,2)
         list.sort((a, b) -> (freq[a + 100] == freq[b + 100]) ? b - a : freq[a + 100] - freq[b + 100]);
 
         int[] res = new int[nums.length];
