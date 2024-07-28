@@ -23,7 +23,7 @@ Follow up: Your algorithm's time complexity must be better than O(n log n), wher
 
 import java.util.*;
 
-public interface TopKFrequentElements {
+public class TopKFrequentElements {
     public static void main(String[] args) {
         int[] nums = new int[]{-1,-1};
         int k = 1;
