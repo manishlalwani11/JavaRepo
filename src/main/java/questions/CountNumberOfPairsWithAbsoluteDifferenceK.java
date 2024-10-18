@@ -66,7 +66,10 @@ public class CountNumberOfPairsWithAbsoluteDifferenceK {
 
     private static int getPairsWithAbsDiff(int[] nums,
                                            int k) {
-        int pairs = 0; // Pairs are combinations out no of elements are distance k in the freq array: 2C1 * 2C1 = 4
+        int pairs = 0; // Pairs are combinations out no of elements are distance k in the freq array: nC1 * nC1 = n * n
+        // 0 1 2 3 4 5
+        // 0 1 1 1 1 1
+
         int[] numsFreq = new int[201];
 
         for (int i = 0; i < nums.length; i++) {

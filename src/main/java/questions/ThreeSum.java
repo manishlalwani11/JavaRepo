@@ -37,64 +37,84 @@ import java.util.*;
 public class ThreeSum {
     public static void main(String[] args) {
 
-        int[] nums = new int[]{-1, 0, 1, 2, -1, -4};
+        int[] nums = new int[]{-1, 2, 1, -4};
 
-        System.out.println(getListOfTriplets(nums));
+        System.out.println(getListOfTriplets(nums, 1));
 
     }
 
-    private static List<List<Integer>> getListOfTriplets(int[] nums) {
+    private static int getListOfTriplets(int[] nums,
+                                         int target) {
 
-        if (Objects.isNull(nums) && nums.length < 3) {
+        /*if (Objects.isNull(nums) && nums.length < 3) {
             return Collections.EMPTY_LIST;
-        }
+        }*/
 
         Set<List<Integer>> threeSumIntegers = new HashSet<>();
         int i;
         int j;
         int sum;
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         Arrays.sort(nums);
 
         for (int x = 0; x <= nums.length - 3; x++) {
             System.out.println(nums[x]);
             i = x + 1;
-            j = nums.length -1;
+            j = nums.length - 1;
             while (i < j) {
                 sum = nums[x] + nums[i] + nums[j];
 
                 if (sum == 0) {
                     threeSumIntegers.add(Arrays.asList(nums[x], nums[i], nums[j]));
+                    // if existing diff is greater than new diff between target and sum, then replace
+                    if (checkIfMapIsEmpty(target, map, sum) || checkAndReplaceInMap(target, map, sum)) {
+                        map.clear();
+                        map.put(Math.abs(target - sum), sum);
+                    }
                     i++;
                     j--;
                 } else if (sum < 0) {
+                    if (checkIfMapIsEmpty(target, map, sum) || checkAndReplaceInMap(target, map, sum)) {
+                        map.clear();
+                        map.put(Math.abs(target - sum), sum);
+                    }
                     i++;
                 } else {
+                    if (checkIfMapIsEmpty(target, map, sum) || checkAndReplaceInMap(target, map, sum)) {
+                        map.clear();
+                        map.put(Math.abs(target - sum), sum);
+                    }
                     j--;  // in case sum > 0
                 }
             }
         }
 
-        /*for (int i = 0; i <= nums.length - 3; i++) {
-            map.put(nums[i], i);
-            System.out.println(nums[i]);
-
-            x = i + 1;
-            y = nums.length - 1;
-
-            Set<Integer> numswithSum = getNumswithSum(nums, (0 - nums[i]), x, map);
-            if (!numswithSum.isEmpty()) {
-                numswithSum.add(nums[i]);
-                threeSumIntegers.add(new ArrayList<>(numswithSum));
-            }
-        }*/
-
-        return new ArrayList<>(threeSumIntegers);
+        return map.values().stream().findFirst().get();
 
     }
 
+    private static boolean checkIfMapIsEmpty(int target,
+                                             HashMap<Integer, Integer> map,
+                                             int sum) {
+        if (map.isEmpty()) {
+            map.put(Math.abs(target - sum), sum);
+            return true;
+        }
+
+        return false;
+    }
+
+    private static boolean checkAndReplaceInMap(int target,
+                                                HashMap<Integer, Integer> map,
+                                                int sum) {
+        return !map.keySet().isEmpty() && (map.keySet().stream().findFirst().get() > Math.abs(target - sum));
+    }
+
     private static Set<Integer> getNumswithSum(int[] nums,
-                                      int sum, int arrStart, Map<Integer, Integer> map) {
+                                               int sum,
+                                               int arrStart,
+                                               Map<Integer, Integer> map) {
 
         HashSet<Integer> twoSumIntegers = new HashSet<>();
 

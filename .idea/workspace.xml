@@ -19,10 +19,36 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Adding more questions.">
+    <list default="true" id="98c58993-ac4d-4ce6-a6b5-0f362415e826" name="Default Changelist" comment="Added RemoveDuplicatesFromSortedList solution">
       <change afterPath="$PROJECT_DIR$/src/main/java/practice/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/questions/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Practice11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/BestSightseeingPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/CourseSchedule2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/DistributeElementsIntoTwoArrays_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/FindTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/LogDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/SortAKSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/list/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/list/AddTwoNumbersII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/list/SwapAdjacentNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/tree/NumberOfGoodLeafNodesPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SafariFunctionalJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTreeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTreeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/CountNumberOfPairsWithAbsoluteDifferenceK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/CountNumberOfPairsWithAbsoluteDifferenceK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/KthLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/KthLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/list/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/RemoveNthNodeFromEndofList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/list/RemoveNthNodeFromEndofList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/questions/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,22 +90,61 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="1pUGmLjuFNuWrOQXwNwUoA6Ntsx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddTwoNumbers.executor": "Debug",
+    "Application.BalBix.executor": "Debug",
+    "Application.Balbix2.executor": "Debug",
+    "Application.BaseballGame.executor": "Run",
+    "Application.BestSightseeingPair.executor": "Debug",
+    "Application.BinarySearchTreeClient.executor": "Debug",
+    "Application.CoinChange.executor": "Run",
+    "Application.CountNumberOfBadPairs.executor": "Debug",
+    "Application.CountNumberOfPairsWithAbsoluteDifferenceK.executor": "Debug",
+    "Application.CrawlerLogFolder.executor": "Run",
+    "Application.DistributeElementsIntoTwoArrays_I.executor": "Debug",
+    "Application.DivideArrayIntoEqualPairs.executor": "Debug",
+    "Application.FindKthLargestElementInAnArray.executor": "Debug",
+    "Application.GetFirstOccurenceInASortedArray.executor": "Run",
+    "Application.HeapClient.executor": "Run",
+    "Application.HeightChecker.executor": "Run",
+    "Application.KthLargestElement.executor": "Debug",
+    "Application.LexicographicallySmallestStringAfterASwap.executor": "Debug",
+    "Application.MultidimensionalArray.executor": "Debug",
+    "Application.PartitionArrayIntoThreePartsWithEqualSum.executor": "Debug",
+    "Application.Practice11.executor": "Debug",
+    "Application.RangeSumOfBST.executor": "Run",
+    "Application.RemoveDuplicatesFromSortedArray.executor": "Debug",
+    "Application.RemoveDuplicatesFromSortedList.executor": "Debug",
+    "Application.ReverseIntegerSigned.executor": "Run",
+    "Application.SlidingWindowMaximum.executor": "Run",
+    "Application.SmallestDifferenceAny2NumsInArray.executor": "Run",
+    "Application.SortAKSortedArray.executor": "Run",
+    "Application.SortArrayByIncreasingFrequency.executor": "Debug",
+    "Application.SortArrayByParity.executor": "Run",
+    "Application.SortCharactersByFrequency.executor": "Run",
+    "Application.SumOfLeftLeaves.executor": "Run",
+    "Application.SwapAdjacentNodes.executor": "Debug",
+    "Application.Target.executor": "Run",
+    "Application.Test11.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.ThreeSumCloset.executor": "Run",
+    "Application.TopKFrequentElements.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="practice" />
@@ -87,13 +153,43 @@
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Play">
-    <configuration name="Merge2SortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.arrays.Merge2SortedArray" />
+  <component name="RunManager" selected="Application.SwapAdjacentNodes">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="9876f2eb-45e2-4503-b768-8d405d4959c3" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.list.AddTwoNumbers" />
       <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.arrays.*" />
+          <option name="PATTERN" value="questions.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,21 +197,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.sorting.MergeSort" />
-      <module name="SafariFunctionalJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Play" />
+    <configuration name="Practice11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Practice11" />
       <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
@@ -127,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.arrays.Test" />
+    <configuration name="SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.SlidingWindowMaximum" />
       <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.arrays.*" />
+          <option name="PATTERN" value="questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +223,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Testing1" />
+    <configuration name="SortAKSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.SortAKSortedArray" />
       <module name="SafariFunctionalJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapAdjacentNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.list.SwapAdjacentNodes" />
+      <module name="SafariFunctionalJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questions.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +251,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Play" />
-        <item itemvalue="Application.Testing1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Merge2SortedArray" />
+        <item itemvalue="Application.SwapAdjacentNodes" />
+        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.Practice11" />
+        <item itemvalue="Application.SortAKSortedArray" />
+        <item itemvalue="Application.SlidingWindowMaximum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-liberica-11.0.21-8336523bb0d9-93da67e8" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -196,7 +299,237 @@
       <option name="project" value="LOCAL" />
       <updated>1694857967118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding more questions.">
+      <created>1694944540930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694944540930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding more questions.">
+      <created>1695007805704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695007805704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding more questions.">
+      <option name="closed" value="true" />
+      <created>1711086535752</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711086535753</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Coin change solution.">
+      <option name="closed" value="true" />
+      <created>1713842278902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713842278902</updated>
+    </task>
+    <task id="LOCAL-00008" summary="MinimumNumberOfCoinsForFruits solution.">
+      <option name="closed" value="true" />
+      <created>1714398249032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714398249032</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added 3sum solution">
+      <option name="closed" value="true" />
+      <created>1714838741038</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714838741038</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added 2 sum solution">
+      <option name="closed" value="true" />
+      <created>1714839092780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714839092780</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added 3 SUM closest solution">
+      <option name="closed" value="true" />
+      <created>1714882948173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714882948173</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added 3 SUM closest solution">
+      <option name="closed" value="true" />
+      <created>1714883046501</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714883046501</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Height Checker solution">
+      <option name="closed" value="true" />
+      <created>1718083674878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718083674878</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Height Checker optimised solution">
+      <option name="closed" value="true" />
+      <created>1720268321967</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1720268321967</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added SortArrayByIncreasingFrequency solution">
+      <option name="closed" value="true" />
+      <created>1720353020509</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720353020509</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added DivideArrayIntoEqualPairs solution">
+      <option name="closed" value="true" />
+      <created>1720354062753</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720354062753</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added CrawlerLogFolder solution">
+      <option name="closed" value="true" />
+      <created>1720944646856</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720944646856</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added BaseballGame solution">
+      <option name="closed" value="true" />
+      <created>1720948445735</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1720948445735</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added LexicographicallySmallestStringAfterASwap solution">
+      <option name="closed" value="true" />
+      <created>1720983397176</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1720983397176</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added SmallestDifferenceAny2NumsInArray solution">
+      <option name="closed" value="true" />
+      <created>1721021987433</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721021987433</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added CountNumberOfPairsWithAbsoluteDifferenceK solution">
+      <option name="closed" value="true" />
+      <created>1721152372228</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721152372228</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added CountNumberOfBadPairs solution">
+      <option name="closed" value="true" />
+      <created>1721234254631</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721234254631</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added CountNumberOfBadPairs solution">
+      <option name="closed" value="true" />
+      <created>1721459755843</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721459755843</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added SortCharactersByFrequency solution">
+      <option name="closed" value="true" />
+      <created>1721478772500</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721478772500</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added TopKFrequentElements solution">
+      <option name="closed" value="true" />
+      <created>1721485923420</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721485923420</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added TopKFrequentElements solution">
+      <option name="closed" value="true" />
+      <created>1721578930308</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721578930308</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added BinaryTreePreorderTraversal solution">
+      <option name="closed" value="true" />
+      <created>1721578972566</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721578972566</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added FindKthLargestElementInAnArray solution">
+      <option name="closed" value="true" />
+      <created>1721598321505</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721598321505</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added PartitionArrayIntoThreePartsWithEqualSum solution">
+      <option name="closed" value="true" />
+      <created>1721667421460</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721667421460</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added MultidimensionalArray solution">
+      <option name="closed" value="true" />
+      <created>1722142440255</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1722142440255</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added TopKFrequentElements solution">
+      <option name="closed" value="true" />
+      <created>1722142484310</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1722142484310</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added RemoveDuplicatesFromSortedList solution">
+      <option name="closed" value="true" />
+      <created>1722301650803</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1722301650803</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +558,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding java project" />
     <MESSAGE value="Adding more questions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding more questions." />
+    <MESSAGE value="Coin change solution." />
+    <MESSAGE value="MinimumNumberOfCoinsForFruits solution." />
+    <MESSAGE value="Added 3sum solution" />
+    <MESSAGE value="Added 2 sum solution" />
+    <MESSAGE value="Added 3 SUM closest solution" />
+    <MESSAGE value="Added Height Checker solution" />
+    <MESSAGE value="Added Height Checker optimised solution" />
+    <MESSAGE value="Added SortArrayByIncreasingFrequency solution" />
+    <MESSAGE value="Added DivideArrayIntoEqualPairs solution" />
+    <MESSAGE value="Added CrawlerLogFolder solution" />
+    <MESSAGE value="Added BaseballGame solution" />
+    <MESSAGE value="Added LexicographicallySmallestStringAfterASwap solution" />
+    <MESSAGE value="Added SmallestDifferenceAny2NumsInArray solution" />
+    <MESSAGE value="Added CountNumberOfPairsWithAbsoluteDifferenceK solution" />
+    <MESSAGE value="Added CountNumberOfBadPairs solution" />
+    <MESSAGE value="Added SortCharactersByFrequency solution" />
+    <MESSAGE value="Added BinaryTreePreorderTraversal solution" />
+    <MESSAGE value="Added FindKthLargestElementInAnArray solution" />
+    <MESSAGE value="Added PartitionArrayIntoThreePartsWithEqualSum solution" />
+    <MESSAGE value="Added MultidimensionalArray solution" />
+    <MESSAGE value="Added TopKFrequentElements solution" />
+    <MESSAGE value="Added RemoveDuplicatesFromSortedList solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added RemoveDuplicatesFromSortedList solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,16 +631,6 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BSTquestions.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/collections/sorting/BubbleSort.java</url>
           <line>18</line>
           <option name="timeStamp" value="30" />
@@ -304,6 +649,332 @@
           <url>file://$PROJECT_DIR$/src/main/java/practice/Play.java</url>
           <line>16</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CoinChange.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CoinChange.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CoinChange.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CoinChange.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSum.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSum.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSum.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSum.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSum.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSumCloset.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSumCloset.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/ThreeSumCloset.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/RemoveDuplicatesFromSortedArray.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/RemoveDuplicatesFromSortedArray.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/HeightChecker.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortArrayByIncreasingFrequency.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortArrayByIncreasingFrequency.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortArrayByIncreasingFrequency.java</url>
+          <line>93</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/DistributeElementsIntoTwoArrays_I.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CrawlerLogFolder.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/BaseballGame.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/LexicographicallySmallestStringAfterASwap.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/LexicographicallySmallestStringAfterASwap.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SmallestDifferenceAny2NumsInArray.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SmallestDifferenceAny2NumsInArray.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CountNumberOfBadPairs.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/LexicographicallySmallestStringAfterASwap.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortCharactersByFrequency.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortCharactersByFrequency.java</url>
+          <line>60</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/TopKFrequentElements.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/TopKFrequentElements.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/TopKFrequentElements.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/tree/SumOfLeftLeaves.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/tree/RangeSumOfBST.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/tree/RangeSumOfBST.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/collections/trees/BinarySearchTree.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/PartitionArrayIntoThreePartsWithEqualSum.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/PartitionArrayIntoThreePartsWithEqualSum.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/BestSightseeingPair.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/BestSightseeingPair.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/BestSightseeingPair.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/LogDataStream.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/LogDataStream.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/GetFirstOccurrenceInASortedArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/KthLargestElement.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/KthLargestElement.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CourseSchedule2.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CourseSchedule2.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/KthLargestElement.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CourseSchedule2.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/list/RemoveDuplicatesFromSortedList.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/list/AddTwoNumbers.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/CountNumberOfPairsWithAbsoluteDifferenceK.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/FindKthLargestElementInAnArray.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/tree/NumberOfGoodLeafNodesPairs.java</url>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortAKSortedArray.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SortAKSortedArray.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/SlidingWindowMaximum.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/Practice11.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/list/AddTwoNumbers.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/list/SwapAdjacentNodes.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/list/SwapAdjacentNodes.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/questions/tree/SumOfLeftLeaves.java</url>
+          <line>30</line>
+          <properties field="sum" class="questions.tree.SumOfLeftLeaves" />
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

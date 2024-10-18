@@ -1,20 +1,20 @@
-package questions;
+package questions.list;
 
 /**
  * https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
- *
+ * <p>
  * Given the head of a linked list, remove the nth node from the end of the list and return its head.
  * Example 1:
- *
- *
+ * <p>
+ * <p>
  * Input: head = [1,2,3,4,5], n = 2
  * Output: [1,2,3,5]
  * Example 2:
- *
+ * <p>
  * Input: head = [1], n = 1
  * Output: []
  * Example 3:
- *
+ * <p>
  * Input: head = [1,2], n = 1
  * Output: [1]
  */
@@ -31,7 +31,8 @@ package questions;
  */
 
 class RemoveNthNodeFromEndofList {
-    public ListNode removeNthFromEnd(ListNode head, int n) {
+    public ListNode removeNthFromEnd(ListNode head,
+                                     int n) {
 
         ListNode dummy = new ListNode(0);
         dummy.next = head;

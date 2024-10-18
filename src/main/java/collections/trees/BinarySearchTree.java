@@ -1,5 +1,9 @@
 package collections.trees;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class BinarySearchTree {
 
     private Node root;
@@ -112,6 +116,54 @@ public class BinarySearchTree {
 
         printAllNodesInRange(current.getRightNode(), minRange, maxRange);
 
+    }
+
+    public void printAllPaths(Node current) {
+        List<String> allPaths = new ArrayList<>();
+
+
+        allPaths = getPathsToLeafNodes(current, String.valueOf(current.getData()), allPaths);
+        System.out.println("All paths: " + allPaths);
+        //StringBuilder s = new StringBuilder();
+        String s = "";
+        PathsToLeafNodes(current, s);
+
+    }
+
+    private List<String> getPathsToLeafNodes(Node node,
+                                              String path,
+                                              List<String> allPaths) {
+        if(node == null){
+            return Collections.EMPTY_LIST;
+        }
+
+        if (node.getLeftNode() == null && node.getRightNode() == null) {
+            allPaths.add(path);
+        }
+
+        getPathsToLeafNodes(node.getLeftNode(), "->" + String.valueOf(node.getData()), allPaths);
+        getPathsToLeafNodes(node.getRightNode(), "->" + String.valueOf(node.getData()), allPaths);
+
+        return allPaths;
+    }
+
+    private void PathsToLeafNodes(Node current, String s) {
+        if (current == null) {
+            return;
+        }
+
+         s = String.join("->", String.valueOf(current.getData()));
+        /*if (s.length() != 0) {
+            s.append("->").append(current.getData());
+        }*/
+
+        if (current.getLeftNode() == null && current.getRightNode() == null){
+            // now print since we reached the leaf node
+            System.out.println(s.toString());
+        }
+
+        PathsToLeafNodes(current.getLeftNode(), s);
+        PathsToLeafNodes(current.getRightNode(), s);
     }
 
 

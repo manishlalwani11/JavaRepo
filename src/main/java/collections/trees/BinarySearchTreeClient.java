@@ -1,6 +1,7 @@
 package collections.trees;
 
 import java.util.HashSet;
+import java.util.List;
 
 public class BinarySearchTreeClient {
 
@@ -36,5 +37,7 @@ public class BinarySearchTreeClient {
         System.out.println("maxDepth of this BST: " + maxDepth);
 
         bst.printAllNodesInRange(bst.getRoot(), 3, 7);
+
+        bst.printAllPaths(bst.getRoot());
     }
 }

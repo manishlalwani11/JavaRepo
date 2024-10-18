@@ -1,4 +1,6 @@
-package questions;
+package questions.list;
+
+import questions.list.ListNode;
 
 /*
  * 21. Merge Two Sorted Lists
@@ -37,23 +39,5 @@ public class MergeTwoSortedLists {
     }
 }
 
-
-class ListNode {
-
-    int val;
-    ListNode next;
-
-    ListNode() {
-    }
-
-    public ListNode(int val) {
-        this.val = val;
-    }
-
-    public ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
 
 
